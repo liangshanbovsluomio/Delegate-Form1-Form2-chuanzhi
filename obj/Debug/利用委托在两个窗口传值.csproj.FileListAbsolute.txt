@@ -1,0 +1,10 @@
+d:\Visual Studio 2017\Projects\委托练习\利用委托在两个窗口传值\bin\Debug\利用委托在两个窗口传值.exe.config
+d:\Visual Studio 2017\Projects\委托练习\利用委托在两个窗口传值\bin\Debug\利用委托在两个窗口传值.exe
+d:\Visual Studio 2017\Projects\委托练习\利用委托在两个窗口传值\bin\Debug\利用委托在两个窗口传值.pdb
+d:\Visual Studio 2017\Projects\委托练习\利用委托在两个窗口传值\obj\Debug\利用委托在两个窗口传值.csprojResolveAssemblyReference.cache
+d:\Visual Studio 2017\Projects\委托练习\利用委托在两个窗口传值\obj\Debug\利用委托在两个窗口传值.Form1.resources
+d:\Visual Studio 2017\Projects\委托练习\利用委托在两个窗口传值\obj\Debug\利用委托在两个窗口传值.Form2.resources
+d:\Visual Studio 2017\Projects\委托练习\利用委托在两个窗口传值\obj\Debug\利用委托在两个窗口传值.Properties.Resources.resources
+d:\Visual Studio 2017\Projects\委托练习\利用委托在两个窗口传值\obj\Debug\利用委托在两个窗口传值.csproj.GenerateResource.Cache
+d:\Visual Studio 2017\Projects\委托练习\利用委托在两个窗口传值\obj\Debug\利用委托在两个窗口传值.exe
+d:\Visual Studio 2017\Projects\委托练习\利用委托在两个窗口传值\obj\Debug\利用委托在两个窗口传值.pdb
